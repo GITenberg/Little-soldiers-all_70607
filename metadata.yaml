@@ -1,0 +1,27 @@
+_repo: Little-soldiers-all_70607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-04-20'
+identifiers:
+  gutenberg: '70607'
+language: en
+pgterms:marc905: 20230415034829stooke
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bThe Religious Tract Society, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- England -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Little soldiers all
+url: http://www.gutenberg.org/ebooks/70607
